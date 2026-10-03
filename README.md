@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of flagrow/passport.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/passport) or the [upstream repository](https://github.com/flagrow/passport).
 
-**0** versions archived · Latest: [`0.2.0-beta`](https://github.com/flarchive/flagrow-passport/tree/archive/v0.2.0-beta) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**2** versions archived · Latest: [`0.2.0-beta`](https://github.com/flarchive/flagrow-passport/tree/archive/v0.2.0-beta) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2017-03-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-passport/tree/archive/v0.1.0-beta.1) |
+| `0.2.0-beta` | 2018-11-05 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-passport/tree/archive/v0.2.0-beta) |
 
 Catalog entry: [packages/flagrow-passport.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-passport.json)
 
